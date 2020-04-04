@@ -1,0 +1,2 @@
+include ':ui', ':presentation', ':domain', ':data'
+rootProject.name='mylolprogammer'
